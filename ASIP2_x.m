@@ -3,6 +3,7 @@
 % 导弹初始位置：(4000, 3000, 0)
 % 目标做随机变加速曲线运动，导弹做定速运动
 % 导弹利用EKF、UKF和PF跟踪并打击目标
+% author: R.H.Wang & GPTo1
 
 clear; clc; close all;
 
